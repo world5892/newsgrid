@@ -52,6 +52,14 @@
 @media(max-width: 600px) {
 
   /* Navbar */
+  #main-nav .container {
+    padding: 10px 30px;
+  }
+
+  .logo {
+    margin-bottom: 10px;
+  }
+
   #cards a {
     padding: 5px 5px;
   }
