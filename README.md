@@ -1,3 +1,3 @@
 # Newsgrid
 
-A news website using CSS grid.
+A demo news website using CSS grid.
